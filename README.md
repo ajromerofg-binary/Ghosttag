@@ -331,9 +331,4 @@ ghosttag is intended for **authorised penetration testing, bug bounty programs, 
 
 ---
 
-## Related tools
 
-| Tool | Description |
-|------|------------|
-| [kangaroo](https://github.com/ajromerofg-binary/kangaroo) | Automated network pivoting via Metasploit/Meterpreter |
-| [ghosttag](https://github.com/ajromerofg-binary/ghosttag) | This tool |
