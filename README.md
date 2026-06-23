@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/29244428/README.md)
-👻 # Ghosttag v2.0
+# Ghosttag v2.0  👻
 
 **Source Code · Document · Binary Credential Hunter**
 
